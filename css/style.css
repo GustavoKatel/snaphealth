@@ -1,0 +1,155 @@
+.verde
+{
+	/*background-color: #ABEFB9;*/
+}
+
+.active > a
+{
+	/*background-color: #9DE2CA !important;*/
+}
+
+.facebook
+{
+	background-image: url(../img/fb.ico);
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding-left: 10%;
+}
+
+.text-inline
+{
+	display: inline;
+}
+
+.refill
+{
+	background-image: url(../img/postit/refill.png);
+	background-repeat: no-repeat;
+	background-size: 75%;
+	background-position: center top;
+	/*width: 25%;*/
+	height: 400px;
+	padding-top: 100px;
+}
+
+.medicine
+{
+	background-image: url(../img/postit/medicine.png);
+	background-repeat: no-repeat;
+	background-size: 75%;
+	background-position: center top;
+	/*width: 25%;*/
+	height: 400px;
+	padding-top: 100px;
+}
+
+.apointment
+{
+	background-image: url(../img/postit/apointment.png);
+	background-repeat: no-repeat;
+	background-size: 75%;
+	background-position: center top;
+	/*width: 25%;*/
+	height: 400px;
+	padding-top: 100px;
+}
+
+.dark-carousel
+{
+	color: #fff;
+	background-color: #000;
+	border-radius: 7px;
+}
+
+.carousel-img
+{
+/*	width: 600px;
+	height: 600px;*/
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contactForm
+{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.modal-body
+{
+	padding-right: 25%;
+	padding-left: 25%;
+}
+
+.gray
+{
+	color: gray;
+}
+
+.about-img
+{
+	width: 20%;
+	height: 20%;
+	display: inline;;
+	/*display: block;
+	margin-right: auto;
+	margin-left: auto;*/
+}
+
+.inline
+{
+	display: inline;
+}
+
+
+
+
+/* Facebook Button */
+.btn-facebook {
+  color: #fff;
+  background-color: #4A6EA9;
+  border-color: #2e6da4;
+}
+.btn-facebook:hover,
+.btn-facebook:focus,
+.btn-facebook.focus,
+.btn-facebook:active,
+.btn-facebook.active,
+.open > .dropdown-toggle.btn-facebook {
+  color: #fff;
+  /*background-color: #286090;*/
+  background-color: #4A6EA9;
+  border-color: #204d74;
+}
+.btn-facebook:active,
+.btn-facebook.active,
+.open > .dropdown-toggle.btn-facebook {
+  background-image: none;
+}
+.btn-facebook.disabled,
+.btn-facebook[disabled],
+fieldset[disabled] .btn-facebook,
+.btn-facebook.disabled:hover,
+.btn-facebook[disabled]:hover,
+fieldset[disabled] .btn-facebook:hover,
+.btn-facebook.disabled:focus,
+.btn-facebook[disabled]:focus,
+fieldset[disabled] .btn-facebook:focus,
+.btn-facebook.disabled.focus,
+.btn-facebook[disabled].focus,
+fieldset[disabled] .btn-facebook.focus,
+.btn-facebook.disabled:active,
+.btn-facebook[disabled]:active,
+fieldset[disabled] .btn-facebook:active,
+.btn-facebook.disabled.active,
+.btn-facebook[disabled].active,
+fieldset[disabled] .btn-facebook.active {
+  background-color: #4A6EA9;
+  border-color: #2e6da4;
+}
+.btn-facebook .badge {
+  color: #4A6EA9;
+  background-color: #fff;
+}
