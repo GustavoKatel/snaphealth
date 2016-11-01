@@ -1,7 +1,7 @@
 # snaphealth
 Snap Health Web Page
 
-# Features:
+# Features
 - Reminders
 - My Medicines
 - Doctors
